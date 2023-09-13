@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Education
 - SPBU, SE (2023-)
 # Contacts
