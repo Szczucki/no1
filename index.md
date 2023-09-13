@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-#Education
+# Education
 - SPBU, SE (2023-)
-#Contacts
+# Contacts
 - tg: @ogurets_1996
 - email: nshchutskiy@gmail.com	
